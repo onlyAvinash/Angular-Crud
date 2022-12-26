@@ -1,4 +1,25 @@
-# Angularapi
+## Overview
+This is a CRUD (create, read, update, delete) project built with Angular and a JSON API. It allows users to perform basic CRUD operations on a database of records, using the API to store and retrieve data.
+
+## Technology Stack
+- Angular
+- JSON API
+
+## Features
+- Create new records
+- Read existing records
+- Update existing records
+- Delete existing records
+
+## Setup and Running
+1. Clone the repository
+2. Install dependencies
+3. Set up your JSON API and update the API configuration in the project
+4. Set environment variables (if applicable)
+5. Run the server: `ng serve`
+
+
+# Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
